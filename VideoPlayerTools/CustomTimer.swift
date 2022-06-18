@@ -153,8 +153,13 @@ struct CustomTimer: View {
         .frame(height: 50)
         .padding()
         .background(
-            Rectangle()
-                .fill(Material.ultraThin)
+            ZStack {
+                Rectangle()
+                    .fill(.black.opacity(0.5))
+                
+                Rectangle()
+                    .fill(Material.ultraThin)
+            }
                 .cornerRadius(10)
                 .frame(height: 100)
         )
