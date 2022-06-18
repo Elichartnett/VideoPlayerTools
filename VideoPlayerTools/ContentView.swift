@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     var now = Date()
-    var future = Calendar.current.date(byAdding: .minute, value: 2, to: Date())
+    var future = Calendar.current.date(byAdding: .minute, value: 1, to: Date())
     
     var body: some View {
         
