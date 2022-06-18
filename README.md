@@ -1,4 +1,4 @@
 # VideoPlayerTools
 
-<img width="300" alt="Screen Shot 2022-06-17 at 1 50 18 PM" src="https://user-images.githubusercontent.com/55256366/174385734-9bc89025-aaa6-4a98-a4fd-0e4ba88c5305.png">
-<img width="300" alt="Screen Shot 2022-06-17 at 1 50 02 PM" src="https://user-images.githubusercontent.com/55256366/174385736-41097b47-6809-44ce-952c-32e3f4db4626.png">
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-18 at 12 13 19](https://user-images.githubusercontent.com/55256366/174449422-0319ce95-b17c-425e-b696-ca1bb9b0dd76.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-18 at 12 13 31](https://user-images.githubusercontent.com/55256366/174449425-e4fd5f14-ba8d-450c-bb01-39aef9bbd66f.png)
